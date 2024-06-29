@@ -1,4 +1,7 @@
 # Insights from Sales & Profit Performance Analysis (2019 - 2023).
+
+<img width="738" alt="Sales   Profit Performance in 2019 - 2023" src="https://github.com/ajiprasetyo11/Analysis-Sales-Profit/assets/117008370/68950e3f-b1dc-4ec9-95c4-2a5152c0f848">
+
 ## Annual Trends:
 - Sales and profit have shown significant growth from 2019 to 2023. Sales nearly doubled from $2,259,451 in 2019 to $4,299,866 in 2023, while profit increased from $248,941 to $504,166 over the same period.
 - Although sales and profit fluctuate each year, the overall trend is a steady increase, indicating healthy business growth during this period.
